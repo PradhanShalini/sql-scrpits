@@ -1,12 +1,12 @@
- SQL Analysis (Exploratory & Advanced)
+ >>>>>>>SQL Analysis (Exploratory & Advanced)
 
  
- Write SQL queries to check data integrity (count, distinct values).
+ 1)Write SQL queries to check data integrity (count, distinct values).
  
- Perform aggregation queries (Total Sales, Total Profit).
+ 2)Perform aggregation queries (Total Sales, Total Profit).
  
- Analyze trends (Monthly sales, Year-over-Year growth).
+ 3)Analyze trends (Monthly sales, Year-over-Year growth).
  
- Identify top-performing products and customers.
+ 4)Identify top-performing products and customers.
  
- Use Window Functions for advanced insights (Running totals, Ranking).
+ 5)Use Window Functions for advanced insights (Running totals, Ranking).
